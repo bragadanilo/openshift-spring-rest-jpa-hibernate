@@ -53,4 +53,4 @@ It is a Maven based project. To run in eclipse it is necessary to import this pr
 > Danilo Braga
 
 > https://br.linkedin.com/in/bragadanilo
->>>>>>> 8e64519e15abcf59e4ec7f468db0882c1e61a17c
+
