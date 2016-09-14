@@ -10,13 +10,10 @@ It is a basic CRUD to be used as a base project for those who wants to start to 
 
 The OpenShift `jbossews` cartridge documentation can be found at:
 
-<<<<<<< HEAD
-http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat teste
-=======
 http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
 
 
-.
+
 
 #### Available Services
 
