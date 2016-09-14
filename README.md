@@ -16,7 +16,7 @@ http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat teste
 http://openshift.github.io/documentation/oo_cartridge_guide.html#tomcat
 
 
-
+.
 
 #### Available Services
 
